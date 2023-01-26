@@ -5,9 +5,12 @@ imgElement.src =  `https://source.unsplash.com/225x225/?${keyword}&sig=${index}`
 <script src="index.js"></script>
 
 การเรียกใช้ฟังก์ชัน
+ชื่อฟังก์ชัน();
 main();
 
 ประกาศฟังก์ชัน
 function ชื่อฟังก์ชัน(){
-
+}
+function main(){
+    
 }
