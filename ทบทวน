@@ -1,0 +1,13 @@
+การเรียกใช้ภาพจาก unsplash ต้องใช้อันนี้
+imgElement.src =  `https://source.unsplash.com/225x225/?${keyword}&sig=${index}`;
+
+เชื่อมกับสคลิป
+<script src="index.js"></script>
+
+การเรียกใช้ฟังก์ชัน
+main();
+
+ประกาศฟังก์ชัน
+function ชื่อฟังก์ชัน(){
+
+}
