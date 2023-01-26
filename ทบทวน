@@ -14,3 +14,11 @@ function ชื่อฟังก์ชัน(){
 function main(){
     
 }
+
+การใชลูปfor
+for(let ชื่อตัวแปล = ค่า; สิ่งที่จะให้ฟังก์ชันทำ){
+    ค่าเป็น ture ให้ทำอะไร
+}
+for(let i = 1; i<=12; i++){
+            appendImageElement(keyword, i);
+}
